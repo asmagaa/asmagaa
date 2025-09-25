@@ -5,6 +5,7 @@
 Links/sources:
 shields - https://shields.io/
 -->
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
       ########+++++++++++++++++++++++++++++++++++++++++++++++++++++++####   
       ###++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++###### 
