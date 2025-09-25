@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c,neovim,obsidian,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,lua,neovim,obsidian,apple)](https://skillicons.dev)
 
       ########+++++++++++++++++++++++++++++++++++++++++++++++++++++++####   
       ###++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++###### 
